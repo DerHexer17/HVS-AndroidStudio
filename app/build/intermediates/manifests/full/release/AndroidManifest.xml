@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hight.ht"
+    android:versionCode="1"
+    android:versionName="0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBcHV3NlPjTGjaqDN01G8YiXcYm6p23jUU" />
+
+        <activity
+            android:name="hight.ht.hvs.StartActivity"
+            android:label="@string/app_name"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="hight.ht.hvs.LigawahlActivity"
+            android:label="@string/title_activity_ligawahl" >
+        </activity>
+        <activity
+            android:name="hight.ht.hvs.LigaTabActivity"
+            android:label="@string/title_activity_liga_tab"
+            android:launchMode="singleTop"
+            android:parentActivityName="hight.ht.hvs.LigawahlActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".hvs.LigawahlActivity" />
+        </activity>
+        <activity
+            android:name="hight.ht.hvs.UpdateActivity"
+            android:label="@string/title_activity_update"
+            android:parentActivityName="hight.ht.hvs.LigawahlActivity"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".hvs.LigawahlActivity" />
+        </activity>
+        <activity
+            android:name="hight.ht.hvs.SpielActivity"
+            android:label="@string/title_activity_spiel"
+            android:parentActivityName="hight.ht.hvs.LigaTabActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".hvs.LigaTabActivity" />
+        </activity>
+        <activity
+            android:name="hight.ht.hvs.MapActivity"
+            android:label="@string/title_activity_map"
+            android:parentActivityName="hight.ht.hvs.LigaTabActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".hvs.LigaTabActivity" />
+        </activity>
+        <activity
+            android:name="hight.ht.hvs.AboutActivity"
+            android:label="@string/title_activity_about"
+            android:parentActivityName="hight.ht.hvs.LigawahlActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".hvs.LigawahlActivity" />
+        </activity>
+        <activity
+            android:name="hight.ht.hvs.SchiedsrichterActivity"
+            android:label="@string/title_activity_schiedsrichter"
+            android:parentActivityName="hight.ht.hvs.SpielActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".hvs.SpielActivity" />
+        </activity>
+    </application>
+
+</manifest>

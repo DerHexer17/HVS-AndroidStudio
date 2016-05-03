@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\liga_tab_remove_favorit.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\liga_tab_remove_favorit.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tabelle.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\tabelle.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\start.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\temp_result.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\temp_result.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\liga_tab_add_favorit.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\liga_tab_add_favorit.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\update.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\update.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\schiedsrichter.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\schiedsrichter.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\map.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\map.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\spiel.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\spiel.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ligawahl.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\ligawahl.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\liga.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\liga.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\menu\\global.xml"
+    }
+]

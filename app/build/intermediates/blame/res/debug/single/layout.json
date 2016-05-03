@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_changelog.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_changelog.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_schiedsrichter.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_schiedsrichter.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_liga_spiele.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_liga_spiele.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_liga_tab.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_liga_tab.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ligawahl.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_ligawahl.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_spiel.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_spiel.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_liga_men.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_liga_men.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_liga_tabelle.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_liga_tabelle.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_spiel.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_spiel.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_impressum.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_impressum.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown_item.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_liga_women.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_liga_women.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ueber_app.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_ueber_app.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_spiel_weiteres.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_spiel_weiteres.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_spiel_details.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_spiel_details.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_liga_tab.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_liga_tab.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_ligen.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\list_ligen.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ligawahl.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\fragment_ligawahl.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_test.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\layout_test.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_spiele.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\list_spiele.xml"
+    }
+]

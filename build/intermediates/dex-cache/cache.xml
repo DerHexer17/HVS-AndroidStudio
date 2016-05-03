@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\F+E\HVS-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="H:\F+E\HVS-AndroidStudio\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0_e1fdf4da94bc5905fb76dbdbbceb04e6bac253ff.jar" />
+    </item>
+    <item
+        jar="H:\F+E\HVS-AndroidStudio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="H:\F+E\HVS-AndroidStudio\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.1.0_7ea049bf3ee81474581958fb19e07716cd338a9f.jar" />
+    </item>
+    <item
+        jar="H:\F+E\HVS-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="H:\F+E\HVS-AndroidStudio\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-22.2.0_15161157dab2d8c367de5ee56b57b0ad324f3093.jar" />
+    </item>
+    <item
+        jar="H:\F+E\HVS-AndroidStudio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="H:\F+E\HVS-AndroidStudio\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-8.1.0_df1dbfb5ef07331a7952f426bfc703acd2f92576.jar" />
+    </item>
+    <item
+        jar="H:\F+E\HVS-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="H:\F+E\HVS-AndroidStudio\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-21.0.3_c156aec14bb0cf623bfa564206330f87f71043d7.jar" />
+    </item>
+    <item
+        jar="C:\Develop\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="H:\F+E\HVS-AndroidStudio\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0_0972d851533c187fe772cd0a713ef2dcedd1aabe.jar" />
+    </item>
+
+</items>

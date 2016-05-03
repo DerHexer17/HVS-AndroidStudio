@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HVS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="testbutton">Hohl Testdaten</string>
+    <string name="title_activity_temp_result">TempResultActivity</string>
+    <string name="title_activity_alle_ligen">AlleLigenActivity</string>
+    <string name="alleLigenTemp">Übersicht über alle Ligen im HVS</string>
+    <string name="title_activity_liga">LigaActivity</string>
+    <string name="ligaTitel">DEFAULT Titel der Liga</string>
+    <string name="spiel_datum"><b>Datum</b></string>
+    <string name="heimteam"><b>Heim</b></string>
+    <string name="gastteam"><b>Gast</b></string>
+    <string name="ergebnis"><b>Ergebnis</b></string>
+    <string name="liga_maennlich"><b>Männer</b></string>
+    <string name="liga_weiblich"><b>Frauen</b></string>
+    <string name="loading_0">Loading (0%)</string>
+    <string name="weiterAlleLigen">Doch kein Datenabgleich</string>
+    <string name="auswahl">Bitte wählen Sie die Ligen aus, die sie benutzen möchten</string>
+    <string name="initialData">Datenabgleich starten</string>
+    <string name="addLiga">Neue Liga hinzufügen</string>
+    <string name="title_activity_tabelle">TabelleActivity</string>
+    <string name="zurTabelle">Zur Tabelle springen</string>
+    <string name="tabelle_rang">Position</string>
+    <string name="tabelle_team">Mannschaft</string>
+    <string name="tabelle_punkte">Punkte</string>
+    <string name="tabelle_tore">Tore</string>
+    <string name="title_activity_ligawahl">LigawahlActivity</string>
+    <string name="title_section1">Männer</string>
+    <string name="title_section2">Frauen</string>
+    <string name="title_activity_liga_tab">LigaTabActivity</string>
+    <string name="liga_tab1">Spiele</string>
+    <string name="liga_tab2">Tabelle</string>
+    <string name="liga_tab3">Statistik</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="spiel_tab1">Details</string>
+    <string name="spiel_tab2">Weiteres</string>
+    <string name="title_activity_spiel">SpielActivity</string>
+    <string name="title_section3">Section 3</string>
+    <string name="kalenderApi">Spiel in Kalender übernehmen</string>
+    <string name="goToMaps">Zeig die Halle in Google Maps an</string>
+    <string name="naechsterSpieltag">Nächster Spieltag</string>
+    <string name="vorherigerSpieltag">Vorheriger Spieltag</string>
+    <string name="small_update">Einfaches Update</string>
+    <string name="full_update">Volles Update</string>
+    <string name="laden">Lädt...</string>
+    <string name="add_liga">Liga hinzufügen</string>
+    <string name="dialog_start">Starten</string>
+    <string name="dialog_cancel">Abbrechen</string>
+    <string name="add_no_liga">Doch keine Liga hinzufügen</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="map">Öffne Karte</string>
+    <string name="help">Hilfe</string>
+    <string name="about">Infos &amp; Hilfe</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="spielWeiteresHeimteamToreImSchnittTitel">Anzahl Heimtore im Schnitt:</string>
+    <string name="spielWeiteresGastteamToreImSchnittTitel">Anzahl Auswärtstore im Schnitt:</string>
+    <string name="spielWeiteresHeimteamSiegTitel">Höchster Heimsieg:</string>
+    <string name="spielWeiteresGastteamSiegTitel">Höchster Auswärtssieg:</string>
+    <string name="spielWeiteresHeimteamBilanzTitel">Heimbilanz:</string>
+    <string name="spielWeiteresGastteamBilanzTitel">Auswärtsbilanz:</string>
+    <string name="favoritHinzu">Liga zu Favoriten hinzufügen</string>
+    <string name="favoritWeg">Liga von Favoriten entfernen</string>
+    <string name="ligaKomplettNeu">Liga komplett neu laden</string>
+    <string name="startSelectAll">Alle Ligen auswählen</string>
+    <string name="weitereSpieleInHalleTitel">Alle Spiele an dem Tag in der Halle:</string>
+    <string name="zeigeSR">Alle Spiele der Schiedsrichter anzeigen</string>
+    <string name="teilenWhatsApp">Über WhatsApp teilen</string>
+    <string name="about_tab_title1">Über die App</string>
+    <string name="about_tab_title2">Changelog</string>
+    <string name="about_tab_title3">Impressum</string>
+    <string name="ligaEntfernen">Liga Zurücksetzen</string>
+    <string name="disclaimer">HINWEIS: Diese App ist kein offizielles Produkt des HVS sondern wurde privat und unabhängig entwickelt. Alle verwendeten Daten sind frei und öffentlich auf der Website des HVS zugänglich!</string>
+	<string name="impressum">Alle inhaltlichen Rechte an den Daten liegen beim Handball-Verband Sachsen e.V.\n\n
+	    Verantwortlich für Entwicklung und Support dieser App:\n\nHendrik Thüs\nSaxoniastr. 20\n01159 Dresden</string>
+	<string name="buttonImpressung">Email an Entwickler</string>    
+    
+    <string-array name="ebenen">
+        <item>Favoriten</item>
+        <item>HVS</item>
+        <item>- Sachsen Mitte</item>
+        <item>-- Kreis Dresden</item>
+        <item>-- Kreis Elbe/Röder</item>
+        <item>-- Kreis Pirna</item>
+        <item>- Leipzig</item>
+        <item>-- Kreis Leipzig</item>
+        <item>-- Kreis Leipzig-Land</item>
+        <item>-- Nordsachsen</item>
+        <item>- Chemnitz</item>
+        <item>-- Kreis Chemnitz</item>
+        <item>-- Kreis Mittelsachsen</item>
+        <item>-- Kreis Erzgebirge</item>
+        <item>-- Kreis Zwickau</item>
+        <item>-- Kreis Vogtland</item>
+        <item>- Ostsachsen</item>
+        <item>-- Kreis Bautzen</item>
+        <item>-- Kreis Oberlausitz</item>
+    </string-array>
+
+    <string name="title_activity_schiedsrichter">SchiedsrichterActivity</string>
+
+</resources>
