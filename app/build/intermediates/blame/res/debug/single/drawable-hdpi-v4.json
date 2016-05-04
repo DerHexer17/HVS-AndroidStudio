@@ -20,12 +20,16 @@
         "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
         "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
-        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notifications_black_24dp.png",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\ic_notifications_black_24dp.png"
     },
     {
         "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
@@ -38,6 +42,10 @@
     {
         "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
         "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_info_black_24dp.png",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\ic_info_black_24dp.png"
     },
     {
         "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
@@ -82,6 +90,10 @@
     {
         "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sync_black_24dp.png",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_black_24dp.png"
     },
     {
         "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",

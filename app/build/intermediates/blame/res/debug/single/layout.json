@@ -20,12 +20,12 @@
         "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
-    },
-    {
         "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
         "source": "H:\\F+E\\HVS-AndroidStudio\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
     },
     {
         "merged": "H:\\F+E\\HVS-AndroidStudio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_liga_spiele.xml",

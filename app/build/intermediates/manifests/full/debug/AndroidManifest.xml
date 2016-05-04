@@ -18,6 +18,9 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -42,8 +45,7 @@
         </activity>
         <activity
             android:name="hight.ht.hvs.LigawahlActivity"
-            android:label="@string/title_activity_ligawahl" >
-        </activity>
+            android:label="@string/title_activity_ligawahl" />
         <activity
             android:name="hight.ht.hvs.LigaTabActivity"
             android:label="@string/title_activity_liga_tab"
@@ -93,6 +95,14 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".hvs.SpielActivity" />
+        </activity>
+        <activity
+            android:name="hight.ht.hvs.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="hight.ht.hvs.LigawahlActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="hight.ht.hvs.LigawahlActivity" />
         </activity>
     </application>
 
